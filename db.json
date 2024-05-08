@@ -110,14 +110,5 @@
     }
   ],
   "cart": [
-    {
-      "id": "7",
-      "title": "Capuccino",
-      "subtitle": "Bebida com canela feita de doses iguais de café, leite e espuma",
-      "price": "8,90",
-      "currency": "R$",
-      "count": 11,
-      "img": "https://typescript-shop-vert.vercel.app/Image7.png"
-    }
   ]
 }
